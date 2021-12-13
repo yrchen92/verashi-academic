@@ -1,6 +1,6 @@
 ---
 role: PhD candidate of Cambridge University
-avatar_filename: dsc_0365.jpg
+avatar_filename: 220px-candymyloveyasu.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
